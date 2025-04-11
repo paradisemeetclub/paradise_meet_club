@@ -1,0 +1,84 @@
+.elementor-29393 .elementor-element.elementor-element-41d9cc1 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 84px 0px 64px 0px;
+}
+
+.elementor-29393 .elementor-element.elementor-element-41d9cc1>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-29393 .elementor-element.elementor-element-c2a2994 {
+    --spacer-size: 24px;
+}
+
+.elementor-29393 .elementor-element.elementor-element-e519629 {
+    width: var( --container-widget-width, 76%);
+    max-width: 76%;
+    --container-widget-width: 76%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-29393 .elementor-element.elementor-element-91d29fc {
+    --spacer-size: 48px;
+}
+
+.elementor-29393 .elementor-element.elementor-element-4ff2957 .elementor-column-gap-custom .elementor-column>.elementor-element-populated {
+    padding: 0px;
+}
+
+.elementor-29393 .elementor-element.elementor-element-b232eb3>.elementor-widget-container {
+    margin: 0px 0px 12px 0px;
+}
+
+.elementor-29393 .elementor-element.elementor-element-eabae49>.elementor-widget-container {
+    margin: 0px 0px 12px 0px;
+}
+
+.elementor-29393 .elementor-element.elementor-element-3b52e52>.elementor-widget-container {
+    margin: 0px 0px 12px 0px;
+}
+
+@media(max-width:1199px) {
+    .elementor-29393 .elementor-element.elementor-element-f20dd0b.elementor-column>.elementor-widget-wrap {
+        justify-content: center;
+    }
+    .elementor-29393 .elementor-element.elementor-element-087cc0e {
+        width: auto;
+        max-width: auto;
+    }
+    .elementor-29393 .elementor-element.elementor-element-e519629 {
+        text-align: center;
+    }
+    .elementor-29393 .elementor-element.elementor-element-be9456e.elementor-column>.elementor-widget-wrap {
+        justify-content: center;
+    }
+    .elementor-29393 .elementor-element.elementor-element-3b52e52 {
+        text-align: center;
+    }
+    .elementor-29393 .elementor-element.elementor-element-258427d {
+        width: var( --container-widget-width, 346px);
+        max-width: 346px;
+        --container-widget-width: 346px;
+        --container-widget-flex-grow: 0;
+    }
+}
+
+@media(max-width:1366px) and (min-width:768px) {
+    .elementor-29393 .elementor-element.elementor-element-f20dd0b {
+        width: 50%;
+    }
+    .elementor-29393 .elementor-element.elementor-element-be9456e {
+        width: 50%;
+    }
+}
+
+@media(max-width:1199px) and (min-width:768px) {
+    .elementor-29393 .elementor-element.elementor-element-f20dd0b {
+        width: 100%;
+    }
+    .elementor-29393 .elementor-element.elementor-element-be9456e {
+        width: 100%;
+    }
+}
